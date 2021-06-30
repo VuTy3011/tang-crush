@@ -9,6 +9,9 @@ const CONFIG = {
     
     
     
+    
+    
+    
    
     btnYes: 'Tới lunnn <33',
     btnNo: 'Không, chú xê raaa :3',
