@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Em à!',
-    introDesc: `Anh nói nhỏ này:
+    introDesc: `Anh nói nhỏ này :
      Đôi môi anh chỉ ăn cơm với cá/
      Đã bao giờ được hôn má ai đâu`,
-    btnIntro: 'Anh chỉ muốn nói thế này',
+    btnIntro: 'Anh bảo',
     title: 'Anh say em rồi, say giọng nói, bờ môi và cả nụ cười em nữa',
     desc: 'Bọn mình ấy nhé!!! ',
     btnYes: 'Tới lunnn <33',
