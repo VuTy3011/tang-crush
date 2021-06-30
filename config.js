@@ -1,14 +1,18 @@
 const CONFIG = {
-    introTitle: 'Em!',
+    introTitle: 'Em à!',
     introDesc: `Anh nói nhỏ này:
-    Đôi môi anh chỉ ăn cơm với cá
-    Đã bao giờ được hôn má ai đâu`,
-    btnIntro: 'hihi',
-    title: 'Em sẽ hôn má anh chứ??? 😙',
-    desc: 'Phải chăng em đã say từ lúc thấy nụ cười anh ',
-    btnYes: 'Yêu anh 3000 <33',
-    btnNo: 'Không, chú cháu thôi :3',
-    messDesc: 'Tối nay 9h30 anh gọi em nhé công chúa. Yêu em nhiều!!!',
+     Đôi môi anh chỉ ăn cơm với cá/
+     Đã bao giờ được hôn má ai đâu`,
+    btnIntro: 'Anh chỉ muốn nói thế này',
+    title: 'Anh say em rồi, say giọng nói, bờ môi và cả nụ cười em nữa',
+    desc: 'Bọn mình ấy nhé!!! ',
+    btnYes: 'Tới lunnn <33',
+    btnNo: 'Không, chú xê raaa :3',
+    question:'Thật lòng yêu em đấy, dành hết tâm huyết đú trend làm cho em cái này, nói gì với anh không??? <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 9h30 anh gọi em nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
