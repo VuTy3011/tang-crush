@@ -7,7 +7,6 @@ const CONFIG = {
     title: 'Mà anh say em rồi, say giọng nói, bờ môi và cả nụ cười em nữa...',
     desc: 'Bọn mình ấy nhé :))) ',
     
-    
     btnYes: 'Tới lunnn <33',
     btnNo: 'Không, chú xê raaa :3',
     question:'Thật lòng yêu em đấy, dành hết tâm huyết đú trend làm cho em cái này, nói gì với anh không??? <3',
